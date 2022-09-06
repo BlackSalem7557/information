@@ -1,0 +1,5 @@
+com\microservice\information\dto\ClientDto.class
+com\microservice\information\entity\ClientEntity.class
+com\microservice\information\controller\ClientController.class
+com\microservice\information\InformationApplication.class
+com\microservice\information\repository\ClientRepository.class
